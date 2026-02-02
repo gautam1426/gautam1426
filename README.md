@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on javascript and tailwind <br>👯 I’m looking to collaborate on instagram<br>🤝 I’m looking for help with<br>🌱 I’m currently learning javascript<br>💬 Ask me about my projects and future plans<br>⚡ Fun fact I'm doing engineering
+🔭 I’m currently working on javascript and tailwind <br>👯 I’m looking to collaborate on instagram<br>🤝 I’m looking for help with nothing<br>🌱 I’m currently learning javascript<br>💬 Ask me about my projects and future plans<br>⚡ Fun fact I'm doing engineering
 
 
 ## 🌐 Socials:
